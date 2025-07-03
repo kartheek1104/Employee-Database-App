@@ -6,9 +6,6 @@ A simple Java desktop application to manage employees using JDBC and MySQL.
 
 - Connects to MySQL database using JDBC
 - CRUD operations on employees (Add, View, Update, Delete)
-- Search employees by ID or name
-- Export employee data to CSV
-- Swing GUI interface for easy interaction
 
 ## Prerequisites
 
