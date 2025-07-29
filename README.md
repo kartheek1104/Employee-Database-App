@@ -29,7 +29,8 @@ CREATE TABLE employees (
     position VARCHAR(100),
     salary DOUBLE
 );
-Project Structure
+```
+# Project Structure
 DBConnection.java — Handles MySQL connection setup
 
 Employee.java — Employee model class with id, name, position, salary
