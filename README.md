@@ -43,7 +43,8 @@ EmployeeApp.java — CLI-based employee management application
 
 EmployeeGUI.java — Swing GUI application with tabbed interface for CRUD, search, and export
 
-#Compilation and Execution
+# Compilation and Execution
+
 Compile all Java files and include the MySQL connector JAR in the classpath:
 
 ```bash
